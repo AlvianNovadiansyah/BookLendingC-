@@ -1,0 +1,8 @@
+
+B1001	 #Sangkuriang	 #M.T Mahmud	 #2018
+D1001	 #Malin Kundang	 #Fahkri Ali	 #2019
+D1002	 #Semangat Pancasila Zaman INI 	 #Bagas M.	 #2018
+B1002	 #Malapetaka	 #Susanto P.	 #2020
+D1003	 #Lullaby	 #John Strom V.	 #2021
+D1030	 #Sarjana	 #Bagus R.	 #2019
+T1043	 #Salam Sejahtera	 #Salman W.	 #2020
